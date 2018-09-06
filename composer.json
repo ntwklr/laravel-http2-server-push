@@ -1,5 +1,5 @@
 {
-  "name": "tomschlick/laravel-http2-server-push",
+  "name": "ntwklr/laravel-http2-server-push",
   "description": "A middleware package for Laravel 5 to enable server push for your script, style, and image assets.",
   "type": "library",
   "license": "MIT",
